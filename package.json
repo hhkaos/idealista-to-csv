@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "btoa": "^1.2.1",
-    "node-jq": "^1.9.1"
+    "node-jq": "^2.3.5"
   }
 }
